@@ -2,7 +2,7 @@
 
 - 👋 Hi, I’m Ahmed
 - 👀 I’m interested in Developing, Learning, and Having friends
-- 🌱 I’m currently learning Tailwind
+- 🌱 I’m currently learning "Wordpress headless cms"
 - 📫 How to reach me [Twitter](https://twitter.com/AhmedKenani6), [Linkedin](//), [Instagram](//)
 
 <!---
